@@ -1,0 +1,14 @@
+## Inspiration
+Practise of machine learning and how to apply it in real-world
+## What it does
+Predicts match result based on the actual statistic of each player in the team
+## How I built it
+Scraped information from the webpage(included in the notebook), created datasets, choose Linear Model, fit model, had a lot of troubleshooting, predicted.
+## Challenges I ran into
+Many errors with shape and type of data for training, lack of data.
+## Accomplishments that I'm proud of
+After so many attempts, I got a result, even if it is not 100% correct.
+## What I learned
+Pytorch library, Pandas and Numpy datatype converting
+## What's next for Soccer Match Predicting Model
+Add a lot more data for training of the model
